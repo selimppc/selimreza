@@ -2,7 +2,7 @@
 
 {{-- Page title --}}
 @section('title')
-About us
+About Me
 @parent
 @stop
 

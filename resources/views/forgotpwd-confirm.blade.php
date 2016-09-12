@@ -4,7 +4,7 @@
     {{--<meta charset="utf-8">--}}
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Forgot_password | Welcome to Josh Frontend</title>
+    <title>Forgot_password | SelimReza.com</title>
     <!--global css starts-->
     <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/bootstrap.min.css') }}">
     <link rel="shortcut icon" href="{{ asset('assets/images/favicon.png') }}" type="image/x-icon">
@@ -18,7 +18,7 @@
 <div class="container">
     <div class="row">
         <div class="box animation flipInX">
-            <img src="{{ asset('assets/images/josh-new.png') }}" alt="logo" class="img-responsive mar">
+            SelimReza.com
             <h3 class="text-primary">Reset your Password</h3>
             <p>Enter your new password details</p>
             @include('notifications')

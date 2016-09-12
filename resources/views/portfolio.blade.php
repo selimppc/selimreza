@@ -53,86 +53,86 @@ Portfolio
                 </div>
                 <div>
                     <div class="mix category-1" data-my-order="1">
-                        <div class="col-md-3 col-sm-6 col-xs-6">
+                        <div class="col-md-4 col-sm-6 col-xs-6">
                             <a class="fancybox" href="{{ asset('assets/images/gallery/10.jpg') }}"><i class="fa fa-search-plus"></i></a>
-                            <a href="{{ URL::to('portfolioitem') }}"><i class="fa fa-link"></i></a>
+                        
                         </div>
                         <div class="thumb_zoom"><img src="{{ asset('assets/images/gallery/10.jpg') }}" class="img-responsive"> </div>
                     </div>
                     <div class="mix category-1" data-my-order="2">
-                        <div class="col-md-3 col-sm-6 col-xs-6">
+                        <div class="col-md-4 col-sm-6 col-xs-6">
                             <a class="fancybox" href="{{ asset('assets/images/gallery/8.jpg') }}"><i class="fa fa-search-plus"></i></a>
-                            <a href="{{ URL::to('portfolioitem') }}"><i class="fa fa-link"></i></a>
+                            
                         </div>
                         <div class="thumb_zoom"><img src="{{ asset('assets/images/gallery/8.jpg') }}" class="img-responsive"> </div>
                     </div>
                     <div class="mix category-2" data-my-order="3">
-                        <div class="col-md-3 col-sm-6 col-xs-6">
+                        <div class="col-md-4 col-sm-6 col-xs-6">
                             <a class="fancybox" href="{{ asset('assets/images/gallery/7.jpg') }}"><i class="fa fa-search-plus"></i></a>
-                            <a href="{{ URL::to('portfolioitem') }}"><i class="fa fa-link"></i></a>
+                            
                         </div>
                         <div class="thumb_zoom"><img src="{{ asset('assets/images/gallery/7.jpg') }}" class="img-responsive"> </div>
                     </div>
                     <div class="mix category-1" data-my-order="4">
-                        <div class="col-md-3 col-sm-6 col-xs-6">
+                        <div class="col-md-4 col-sm-6 col-xs-6">
                             <a class="fancybox" href="{{ asset('assets/images/gallery/6.jpg') }}"><i class="fa fa-search-plus"></i></a>
-                            <a href="{{ URL::to('portfolioitem') }}"><i class="fa fa-link"></i></a>
+                            
                         </div>
                         <div class="thumb_zoom"><img src="{{ asset('assets/images/gallery/6.jpg') }}" class="img-responsive"> </div>
                     </div>
                     <div class="mix category-2" data-my-order="5">
-                        <div class="col-md-3 col-sm-6 col-xs-6">
+                        <div class="col-md-4 col-sm-6 col-xs-6">
                             <a class="fancybox" href="{{ asset('assets/images/gallery/5.jpg') }}"><i class="fa fa-search-plus"></i></a>
-                            <a href="{{ URL::to('portfolioitem') }}"><i class="fa fa-link"></i></a>
+                            
                         </div>
                         <div class="thumb_zoom"><img src="{{ asset('assets/images/gallery/5.jpg') }}" class="img-responsive"> </div>
                     </div>
                     <div class="mix category-2" data-my-order="6">
-                        <div class="col-md-3 col-sm-6 col-xs-6">
+                        <div class="col-md-4 col-sm-6 col-xs-6">
                             <a class="fancybox" href="{{ asset('assets/images/gallery/4.jpg') }}"><i class="fa fa-search-plus"></i></a>
-                            <a href="{{ URL::to('portfolioitem') }}"><i class="fa fa-link"></i></a>
+                            
                         </div>
                         <div class="thumb_zoom"><img src="{{ asset('assets/images/gallery/4.jpg') }}" class="img-responsive"> </div>
                     </div>
                     <div class="mix category-1" data-my-order="7">
-                        <div class="col-md-3 col-sm-6 col-xs-6">
+                        <div class="col-md-4 col-sm-6 col-xs-6">
                             <a class="fancybox" href="{{ asset('assets/images/gallery/3.jpg') }}"><i class="fa fa-search-plus"></i></a>
-                            <a href="{{ URL::to('portfolioitem') }}"><i class="fa fa-link"></i></a>
+                            
                         </div>
                         <div class="thumb_zoom"><img src="{{ asset('assets/images/gallery/3.jpg') }}" class="img-responsive"> </div>
                     </div>
                     <div class="mix category-2" data-my-order="8">
-                        <div class="col-md-3 col-sm-6 col-xs-6">
+                        <div class="col-md-4 col-sm-6 col-xs-6">
                             <a class="fancybox" href="{{ asset('assets/images/gallery/2.jpg') }}"><i class="fa fa-search-plus"></i></a>
-                            <a href="{{ URL::to('portfolioitem') }}"><i class="fa fa-link"></i></a>
+                            
                         </div>
                         <div class="thumb_zoom"><img src="{{ asset('assets/images/gallery/2.jpg') }}" class="img-responsive"> </div>
                     </div>
                     <div class="mix category-2" data-my-order="8">
-                        <div class="col-md-3 col-sm-6 col-xs-6">
+                        <div class="col-md-4 col-sm-6 col-xs-6">
                             <a class="fancybox" href="{{ asset('assets/images/gallery/1.jpg') }}"><i class="fa fa-search-plus"></i></a>
-                            <a href="{{ URL::to('portfolioitem') }}"><i class="fa fa-link"></i></a>
+                            
                         </div>
                         <div class="thumb_zoom"><img src="{{ asset('assets/images/gallery/1.jpg') }}" class="img-responsive"> </div>
                     </div>
                     <div class="mix category-1" data-my-order="8">
-                        <div class="col-md-3 col-sm-6 col-xs-6">
+                        <div class="col-md-4 col-sm-6 col-xs-6">
                             <a class="fancybox" href="{{ asset('assets/images/gallery/11.jpg') }}"><i class="fa fa-search-plus"></i></a>
-                            <a href="{{ URL::to('portfolioitem') }}"><i class="fa fa-link"></i></a>
+                            
                         </div>
                         <div class="thumb_zoom"><img src="{{ asset('assets/images/gallery/11.jpg') }}" class="img-responsive"> </div>
                     </div>
                     <div class="mix category-1" data-my-order="8">
-                        <div class="col-md-3 col-sm-6 col-xs-6">
+                        <div class="col-md-4 col-sm-6 col-xs-6">
                             <a class="fancybox" href="{{ asset('assets/images/gallery/12.jpg') }}"><i class="fa fa-search-plus"></i></a>
-                            <a href="{{ URL::to('portfolioitem') }}"><i class="fa fa-link"></i></a>
+                            
                         </div>
                         <div class="thumb_zoom"><img src="{{ asset('assets/images/gallery/12.jpg') }}" class="img-responsive"> </div>
                     </div>
                     <div class="mix category-2" data-my-order="8">
-                        <div class="col-md-3 col-sm-6 col-xs-6">
+                        <div class="col-md-4 col-sm-6 col-xs-6">
                             <a class="fancybox" href="{{ asset('assets/images/gallery/9.jpg') }}"><i class="fa fa-search-plus"></i></a>
-                            <a href="{{ URL::to('portfolioitem') }}"><i class="fa fa-link"></i></a>
+                            
                         </div>
                         <div class="thumb_zoom"><img src="{{ asset('assets/images/gallery/9.jpg') }}" class="img-responsive"> </div>
                     </div>
