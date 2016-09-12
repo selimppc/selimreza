@@ -20,9 +20,9 @@ Home | SelimReza.com
 @section('top')
     <!--Carousel Start -->
     <div id="owl-demo" class="owl-carousel owl-theme">
-        <div class="item"><img src="{{ asset('assets/images/code-2.jpg') }}" alt="Selim Reza">
+        <div class="item"><amp-img src="{{ asset('assets/images/code-2.jpg') }}" alt="Selim Reza" height="503" width="1360" layout="responsive"> </amp-img>
         </div>
-        <div class="item"><img src="{{ asset('assets/images/code-4.jpg') }}" alt="Selim Reza">
+        <div class="item"><amp-img src="{{ asset('assets/images/code-4.jpg') }}" alt="Selim Reza" height="503" width="1360" layout="responsive"> </amp-img>
         </div>
     </div>
     <!-- //Carousel End -->
