@@ -3,7 +3,7 @@
 
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title>404 page | Josh Admin Template</title>
+    <title>404 page | SelimReza.com</title>
     <meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' name='viewport'>
     <!-- global level js-->
     <link href="{{ asset('assets/css/bootstrap.min.css') }}" rel="stylesheet" type="text/css" />
@@ -24,7 +24,7 @@
     <div class="hgroup">
         <h1>Page Not Found</h1>
         <h2>It seems that page you are looking for no longer exists.</h2>
-        <a href="{{ route('dashboard') }}">
+        <a href="{{ route('home') }}">
             <button type="button" class="btn btn-responsive button-alignment">Home</button>
         </a>
     </div>

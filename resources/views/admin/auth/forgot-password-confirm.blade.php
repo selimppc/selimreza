@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Admin Login | Josh Admin Template</title>
+    <title>Admin Login | SelimReza.com</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- global level css -->
     <link href="{{ asset('assets/css/bootstrap.min.css') }}" rel="stylesheet" />

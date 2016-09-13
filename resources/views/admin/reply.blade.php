@@ -2,7 +2,7 @@
 
 {{-- Page title --}}
 @section('title')
-Mail Box replay| Josh Admin Template</title>
+Mail Box replay| SelimReza.com</title>
     <meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' name='viewport'>
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->

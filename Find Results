@@ -1,0 +1,66 @@
+Searching 8458 files for "Josh Admin Template"
+
+/Users/selimreza/Sites/selimreza/resources/views/admin/404.blade.php:
+    4  <head>
+    5      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    6:     <title>404 page | Josh Admin Template</title>
+    7      <meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' name='viewport'>
+    8      <!-- global level js-->
+
+/Users/selimreza/Sites/selimreza/resources/views/admin/500.blade.php:
+    3  <head>
+    4      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    5:     <title>500 Internal Error | Josh Admin Template</title>
+    6      <meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' name='viewport'>
+    7      <!-- global level js -->
+
+/Users/selimreza/Sites/selimreza/resources/views/admin/auth/forgot-password-confirm.blade.php:
+    3  
+    4  <head>
+    5:     <title>Admin Login | Josh Admin Template</title>
+    6      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    7      <!-- global level css -->
+
+/Users/selimreza/Sites/selimreza/resources/views/admin/index.blade.php:
+    3  {{-- Page title --}}
+    4  @section('title')
+    5:     Josh Admin Template
+    6      @parent
+    7  @stop
+
+/Users/selimreza/Sites/selimreza/resources/views/admin/layouts/default.blade.php:
+    6      <title>
+    7          @section('title')
+    8:             | Josh Admin Template
+    9          @show
+   10      </title>
+
+/Users/selimreza/Sites/selimreza/resources/views/admin/lockscreen.blade.php:
+    3  
+    4  <head>
+    5:     <title>Lock Screen | Josh Admin Template</title>
+    6      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    7      <!-- global level css -->
+
+/Users/selimreza/Sites/selimreza/resources/views/admin/register2.blade.php:
+    3  
+    4  <head>
+    5:     <title>Register | Josh Admin Template</title>
+    6      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    7      <!-- global level css -->
+
+/Users/selimreza/Sites/selimreza/resources/views/admin/reply.blade.php:
+    3  {{-- Page title --}}
+    4  @section('title')
+    5: Mail Box replay| Josh Admin Template</title>
+    6      <meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' name='viewport'>
+    7      <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+
+/Users/selimreza/Sites/selimreza/storage/framework/views/fba327ca72024d1b3aed5d3fe5326d25:
+    4  <head>
+    5      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    6:     <title>404 page | Josh Admin Template</title>
+    7      <meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' name='viewport'>
+    8      <!-- global level js-->
+
+9 matches across 9 files

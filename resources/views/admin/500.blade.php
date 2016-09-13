@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title>500 Internal Error | Josh Admin Template</title>
+    <title>500 Internal Error | SelimReza.com</title>
     <meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' name='viewport'>
     <!-- global level js -->
     <link href="{{ asset('assets/css/bootstrap.min.css') }}" rel="stylesheet" type="text/css" />
@@ -23,7 +23,7 @@
                         Thats an error.
                         <br>There was an error. Please Try again later. Thats all we know
                     </h3>
-                        <a href="{{ route('dashboard') }}" class="btn btn-warning">Home</a>
+                        <a href="{{ route('home') }}" class="btn btn-warning">Home</a>
                     <br>
                 </div>
             </div>
