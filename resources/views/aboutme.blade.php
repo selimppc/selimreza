@@ -28,7 +28,7 @@ About Me
                 </li>
                 <li class="hidden-xs">
                     <i class="livicon icon3" data-name="angle-double-right" data-size="18" data-loop="true" data-c="#01bc8c" data-hc="#01bc8c"></i>
-                    <a href="{{ URL::to('aboutus') }}">About Me</a>
+                    <a href="{{ URL::to('aboutme') }}">About Me</a>
                 </li>
             </ol>
             <div class="pull-right">
@@ -46,7 +46,15 @@ About Me
         <!-- Slider Section Start -->
         <div class="row">
             <!-- Left Heading Section Start -->
-            <div class="col-md-7 col-sm-12">
+            <div class="col-md-3 col-sm-12">
+                <p>
+                <br>
+                    <amp-img src="{{ asset('assets/images/a_sr.png') }}" alt="Selim Reza | PHP Developer" width="220" height="230" style=" padding: 5px; border-radius: 5px; "> </amp-img>
+                </p>
+                
+            </div>
+
+            <div class="col-md-4 col-sm-12">
                 <h2><label>About ME</label></h2>
                 <p>
                     Passionate, responsible and committed engineer, with a get-it-done, on-time spirit, and more than 3 years of experience designing, implementing and adapting technically sophisticated online web applications using PHP, JS,  three tiered architecture and more. Proficient in PHP infrastructure, language standards, object modeling technologies and Application Life Cycle management. 

@@ -2,7 +2,7 @@
 
 {{-- Page title --}}
 @section('title')
-Home | SelimReza.com
+Home | PHP Developer, Laravel, Yii, MYSQL
 @parent
 @stop
 
@@ -36,7 +36,7 @@ Home | SelimReza.com
                 <div class="row">
                     <div class="col-md-7 col-sm-7 col-xs-12">
                         <h1 class="purchae-hed"> Better Code, Better Life </h1></div>
-                    <div class="col-md-5 col-sm-5 col-xs-12"><a href="#" class="btn btn-primary purchase-styl pull-right">Email Me</a></div>
+                    <div class="col-md-5 col-sm-5 col-xs-12"><a href="mailto:me@selimreza.com" class="btn btn-primary purchase-styl pull-right">Email Me</a></div>
                 </div>
             </div>
         </section>
@@ -46,31 +46,29 @@ Home | SelimReza.com
     <!-- Accordions Section End -->
     <div class="container">
         
-        
-        
         <!-- Features Start -->
         <div class="row features">
             <div class="text-center">
                 <div class="text-center">
-                    <h3 class=" border-warning"><span class="heading_border bg-warning">Work History</span></h3>
+                    <h3 class=" border-warning"><span class="heading_border bg-warning">Project Planning</span></h3>
                 </div>
             </div>
             <div class="col-md-4 col-sm-4">
                 <div>
                     <a href="#"><i class="livicon" data-name="checked-on" data-size="22" data-loop="true" data-c="#25a3d8" data-hc="#25a3d8"></i></a>
-                    <h4><bold>Enterprise Solutions</bold></h4>
+                    <h4><bold>Enterprise Resource Planning (ERP)</bold></h4>
                 </div>
                 <div>
                     <p>
-                        <label>ERP and Supply Chain Management</label>
+                        <label>Custom Web Based ERP Solutions for Small, Medium and Large Companies. We develop some modules: General Ledger, Purchase, GRN, Inventory, Sales, Account Payable, Account Receivable, HR & Payroll. Alos I setup cloud API</label>
                     </p>
                 </div>
                 <div>
                     <a href="#"> <i class="livicon" data-name="checked-on" data-size="22" data-loop="true" data-c="#ef8424 " data-hc="#ef8424 "></i>
                     </a>
-                    <h4><bold>E-Commerce </bold></h4>
+                    <h4><bold>E-Commerce Web & APP</bold></h4>
                     <p>
-                        <label>Web based E-Commerce</label>
+                        <label>Covering latest technology for online market. For apps and web based ecommerce solution I am using PHP framework and Payment Gateway as Paypal, Authorized, 1Shopping and Eway with courier service TNT.  </label>
                     </p>
                 </div>
             </div>
@@ -78,9 +76,9 @@ Home | SelimReza.com
                 <div>
                     <a href="#"> <i class="livicon" data-name="checked-on" data-size="22" data-loop="true" data-c="#01bc8c" data-hc="#01bc8c"></i>
                     </a>
-                    <h4><bold>Web Application</bold></h4>
+                    <h4><bold>Web APP & Rest API</bold></h4>
                     <p>
-                        <label>Web Application</label>
+                        <label> I am in the middle of technologies, I develop web apps and API to communicate among the server(s). I love to build rest api(s). It gives me more interest than others. I worked for Russia and Europe for a large project with :: API, Clouding, Java and PHP </label>
                     </p>
                 </div>
                 <div>
@@ -88,7 +86,7 @@ Home | SelimReza.com
                     </a>
                     <h4><bold>Content Management System</bold></h4>
                     <p>
-                        <label>Content Management System</label>
+                        <label>I have experience with Joomla, Wordpress, Drupal. I worked with Magento once. Mainly I have better experience on Wordpress and Mysql. Wordpress is very popular paltform for managing content and search engine marketing. Also user friendly. </label>
                     </p>
                 </div>
             </div>
@@ -96,17 +94,17 @@ Home | SelimReza.com
                 <div>
                     <a href="#"> <i class="livicon" data-name="checked-on" data-size="22" data-loop="true" data-c="#FFD43C" data-hc="#FFD43C"></i>
                     </a>
-                    <h4>Database Administration </h4>
+                    <h4>Database Programming </h4>
                     <p>
-                        <label>Optimize Database</label>
+                        <label> In enterprise resource planning I use : Store Procedure, Views, Trigger, Events. I utilize that database programming is much better than other language to retrive data from a database server. I have experience better on MySQL database server. </label>
                     </p>
                 </div>
                 <div>
                     <a href="#"> <i class="livicon" data-name="checked-on" data-size="22" data-loop="true" data-c="#91d659 " data-hc="#91d659 "></i>
                     </a>
-                    <h4>UML Design</h4>
+                    <h4>Scrum or Waterfall Method</h4>
                     <p>
-                        <label>UML Design </label>
+                        <label>I love to work with proper documentation as well as scrum methodology. Now I am following waterfall pattern for my projects. I would love to work with scrum and UML.  </label>
                     </p>
                 </div>
             </div>
@@ -115,41 +113,77 @@ Home | SelimReza.com
         <!-- Our Skills Start -->
         
         <div class="text-center marbtm10">
-            <h3 class="border-danger"><span class="heading_border bg-danger"> Skills</span></h3>
+            <h3 class="border-danger"><span class="heading_border bg-danger"> Technologies I use</span></h3>
         </div>
             </div>
         <div class="sliders">
-            <!-- Our skill Section start -->
+            <!-- Our skill Section start <--></-->
             <div class="container">
             <div class="row">
+
             <div class="col-md-3 col-sm-6  text-center ">
                 <div class="text-center center-block">
                     <div id="myStat3" class="center-block" data-startdegree="0" data-dimension="150" data-text="90%" data-width="4" data-fontsize="28" data-percent="90" data-fgcolor="#3abec0" data-bgcolor="#eee"></div>
-                    <strong class="success">PHP</strong>
+                    <strong class="success">PHP / Framework </strong>
                 </div>
-                <span>PHP 5.5 + </span>
-            </div>
-            <div class="col-md-3 col-sm-6 text-center">
+                <span>PHP 5.5+, Laravel 4.2, Laravel 5.1, Laravel 5.3, Yii1, Yii2, CodeIgniter </span>
+                <p> &nbsp; </p>
+
                 <div class="text-center center-block">
-                    <div id="myStat4" class="center-block" data-startdegree="0" data-dimension="150" data-text="60%" data-width="4" data-fontsize="28" data-percent="60" data-fgcolor="#3abec0" data-bgcolor="#eee"></div>
-                    <strong class="success">MySQL</strong>
+                    <div id="myStat3" class="center-block" data-startdegree="0" data-dimension="150" data-text="90%" data-width="4" data-fontsize="28" data-percent="90" data-fgcolor="#3abec0" data-bgcolor="#eee"></div>
+                    <strong class="success">Front End </strong>
                 </div>
-                <span>MySQL</span>
+                <span>jQuery, JavaScript, HTML5, CSS3, AngularJs, React.js </span>
             </div>
+
+           
+
             <div class="col-md-3 col-sm-6 text-center">
                 <div class="text-center center-block">
-                <div id="myStat5" class="center-block" data-startdegree="0" data-dimension="150" data-text="100%" data-width="4" data-fontsize="28" data-percent="100" data-fgcolor="#3abec0" data-bgcolor="#eee"></div>
-                <strong class="success">Data Algorithm</strong>
+                    <div id="myStat4" class="center-block" data-startdegree="0" data-dimension="150" data-text="90%" data-width="4" data-fontsize="28" data-percent="90" data-fgcolor="#3abec0" data-bgcolor="#eee"></div>
+                    <strong class="success">Database Server</strong>
+                </div>
+                <span>MySQL (Store Procedure, Views, Trigger)</span>
+                <p> &nbsp; </p>
+
+                <div class="text-center center-block">
+                <div id="myStat7" class="center-block" data-startdegree="0" data-dimension="150" data-text="90%" data-width="4" data-fontsize="28" data-percent="90" data-fgcolor="#3abec0" data-bgcolor="#eee"></div>
+                <strong class="success">Backend Design </strong>
+                </div>
+                <span>Database Design, Model and Active Records </span>
             </div>
-            <span>Data Scientist</span>
-            </div>
+
             <div class="col-md-3 col-sm-6 text-center">
                 <div class="text-center center-block">
-                <div id="myStat6" class="center-block" data-startdegree="0" data-dimension="150" data-text="70%" data-width="4" data-fontsize="28" data-percent="70" data-fgcolor="#3abec0" data-bgcolor="#eee"></div>
-                <strong class="success">Js Framework</strong>
+                <div id="myStat5" class="center-block" data-startdegree="0" data-dimension="150" data-text="80%" data-width="4" data-fontsize="28" data-percent="80" data-fgcolor="#3abec0" data-bgcolor="#eee"></div>
+                <strong class="success">Reprts Server</strong>
+                </div>
+                <span>Jasper Reports Server, iReports</span>
+                <p> &nbsp; </p>
+
+                <div class="text-center center-block">
+                <div id="myStat5" class="center-block" data-startdegree="0" data-dimension="150" data-text="80%" data-width="4" data-fontsize="28" data-percent="80" data-fgcolor="#3abec0" data-bgcolor="#eee"></div>
+                <strong class="success">Cloud Server</strong>
+                </div>
+                <span>Apache2, Tomcat, MySQL, MariaDB, SendMail, Postfix</span>
             </div>
-            <span>Angular, React, Node </span>
+
+            <div class="col-md-3 col-sm-6 text-center">
+                <div class="text-center center-block">
+                <div id="myStat6" class="center-block" data-startdegree="0" data-dimension="150" data-text="90%" data-width="4" data-fontsize="28" data-percent="90" data-fgcolor="#3abec0" data-bgcolor="#eee"></div>
+                    <strong class="success">Gist && IDE</strong>
+                </div>
+                <span>Git, BitBucket && PHPStorm, Sublime Text </span>
+                <p> &nbsp; </p>
+
+                <div class="text-center center-block">
+                <div id="myStat6" class="center-block" data-startdegree="0" data-dimension="150" data-text="90%" data-width="4" data-fontsize="28" data-percent="90" data-fgcolor="#3abec0" data-bgcolor="#eee"></div>
+                    <strong class="success">Git Account</strong>
+                </div>
+                <span>Git, BitBucket account: selimppc </span>
             </div>
+
+
         </div>
             <!-- Our skills Section End -->
         </div>
