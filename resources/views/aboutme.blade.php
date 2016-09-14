@@ -49,7 +49,7 @@ About Me
             <div class="col-md-3 col-sm-12">
                 <p>
                 <br>
-                    <amp-img src="{{ asset('assets/images/a_sr.png') }}" alt="Selim Reza | PHP Developer" width="220" height="230" style=" padding: 5px; border-radius: 5px; "> </amp-img>
+                    <amp-img src="{{ asset('assets/images/a_sr.png') }}" alt="Selim Reza | PHP Developer" width="250" height="250" style=" padding: 5px; border-radius: 5px; "> </amp-img>
                 </p>
                 
             </div>
