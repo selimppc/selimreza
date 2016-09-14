@@ -64,7 +64,7 @@ Chat | SelimReza.com
 
         <div class="col-md-10 col-md-offset-1">
         <p>&nbsp;</p>
-        <p>Real time Chat messaging </p>
+        <p>Real time Chat messaging  <span style="color: red">(NodeJs will not work on shared server)</span></p>
             <div class="panel panel-default">
                 <div class="panel-heading">Chat With me | SelimReza.com</div>
                 <div class="panel-body">
@@ -83,7 +83,7 @@ Chat | SelimReza.com
                                 <input type="hidden" name="user" id="chat_name" >
                                 <textarea class="form-control msg"></textarea>
                                 <br/>
-                                <input type="button" value="Send" class="btn btn-success send-msg">
+                                <input type="button" value="Send Message" class="btn btn-success send-msg ">
                             </form>
                     </div>
 
