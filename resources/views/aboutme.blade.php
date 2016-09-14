@@ -59,6 +59,9 @@ About Me | SelimReza.com
                 <p>
                     Passionate, responsible and committed engineer, with a get-it-done, on-time spirit, and more than 3 years of experience designing, implementing and adapting technically sophisticated online web applications using PHP, JS,  three tiered architecture and more. Proficient in PHP infrastructure, language standards, object modeling technologies and Application Life Cycle management. 
                 </p>
+                <p>
+                     <a href="{{ asset('uploads/files/Selim_Reza_Bangladesh.pdf') }}" class="btn btn-success text-white" role="button" target="_blank"> Download My Resume. Click Here !</a>
+                </p>
                 
             </div>
             <!-- //Left Heaing Section End -->
