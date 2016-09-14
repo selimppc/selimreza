@@ -133,6 +133,7 @@
                         <li><a href="{{ URL::to('logout') }}">Logout</a>
                         </li>
                     @endif
+                    <li><a href="{{ URL::to('chat') }}">Live Chat</a>
                 </ul>
             </div>
         </nav>

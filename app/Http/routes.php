@@ -16,6 +16,11 @@ Route::get('/', function () {
 });
 
 
+
+Route::any('chat', 'ChatController@index_chat');
+
+Route::post('sendmessage', 'ChatController@sendMessage');
+
 /**
  * Model binding into route
  */
