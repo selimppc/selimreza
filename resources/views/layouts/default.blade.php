@@ -77,15 +77,15 @@
                 <ul class="list-inline">
 
                     <li>
-                        <a href="https://twitter.com/selimppc"> <i class="livicon" data-name="twitter" data-size="18" data-loop="true" data-c="#fff" data-hc="#757b87"></i>
+                        <a href="https://twitter.com/selimppc" target="_blank"> <i class="livicon" data-name="twitter" data-size="18" data-loop="true" data-c="#fff" data-hc="#757b87"></i>
                         </a>
                     </li>
                     <li>
-                        <a href="https://plus.google.com/u/0/+SelimRezaBD"> <i class="livicon" data-name="google-plus" data-size="18" data-loop="true" data-c="#fff" data-hc="#757b87"></i>
+                        <a href="https://plus.google.com/u/0/+SelimRezaBD" target="_blank"> <i class="livicon" data-name="google-plus" data-size="18" data-loop="true" data-c="#fff" data-hc="#757b87"></i>
                         </a>
                     </li>
                     <li>
-                        <a href="https://www.linkedin.com/in/selimppc"> <i class="livicon" data-name="linkedin" data-size="18" data-loop="true" data-c="#fff" data-hc="#757b87"></i>
+                        <a href="https://www.linkedin.com/in/selimppc" target="_blank"> <i class="livicon" data-name="linkedin" data-size="18" data-loop="true" data-c="#fff" data-hc="#757b87"></i>
                         </a>
                     </li>
 
@@ -175,15 +175,15 @@
                 <ul class="list-inline">
 
                     <li>
-                        <a href="https://twitter.com/selimppc"> <i class="livicon" data-name="twitter" data-size="18" data-loop="true" data-c="#ccc" data-hc="#ccc"></i>
+                        <a href="https://twitter.com/selimppc" target="_blank"> <i class="livicon" data-name="twitter" data-size="18" data-loop="true" data-c="#ccc" data-hc="#ccc"></i>
                         </a>
                     </li>
                     <li>
-                        <a href="https://plus.google.com/u/0/+SelimRezaBD"> <i class="livicon" data-name="google-plus" data-size="18" data-loop="true" data-c="#ccc" data-hc="#ccc"></i>
+                        <a href="https://plus.google.com/u/0/+SelimRezaBD" target="_blank"> <i class="livicon" data-name="google-plus" data-size="18" data-loop="true" data-c="#ccc" data-hc="#ccc"></i>
                         </a>
                     </li>
                     <li>
-                        <a href="https://www.linkedin.com/in/selimppc"> <i class="livicon" data-name="linkedin" data-size="18" data-loop="true" data-c="#ccc" data-hc="#ccc"></i>
+                        <a href="https://www.linkedin.com/in/selimppc" target="_blank"> <i class="livicon" data-name="linkedin" data-size="18" data-loop="true" data-c="#ccc" data-hc="#ccc"></i>
                         </a>
                     </li>
                 </ul>
