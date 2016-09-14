@@ -2,7 +2,7 @@
 
 {{-- Page title --}}
 @section('title')
-About Me
+About Me | SelimReza.com
 @parent
 @stop
 
