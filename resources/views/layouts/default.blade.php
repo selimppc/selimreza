@@ -126,8 +126,7 @@
                     @if(Sentinel::guest())
                         <li><a href="{{ URL::to('login') }}">Login</a>
                         </li>
-                        <li><a href="{{ URL::to('register') }}">Register</a>
-                        </li>
+                        
                     @else
                         <li {{ (Request::is('my-account') ? 'class=active' : '') }}><a href="{{ URL::to('my-account') }}">My Account</a>
                         </li>
