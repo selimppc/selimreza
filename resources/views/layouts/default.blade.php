@@ -136,6 +136,7 @@
                     @endif
                     <li><a href="{{ URL::to('chat') }}">Live Chat</a></li>
                     <li><a href="{{ URL::to('jobs') }}">Jobs</a></li>
+                    <li><a href="{{ URL::to('amazon-products') }}">Amazon Products</a></li>
                 </ul>
             </div>
         </nav>
