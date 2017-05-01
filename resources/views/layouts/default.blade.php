@@ -121,21 +121,21 @@
                     <li><a href="{{ URL::to('aboutme') }}">About Me</a>
                     <li><a href="{{ URL::to('products') }}">Products</a>
                     <li><a href="{{ URL::to('portfolio') }}">Portfolio</a>
+                    <li><a href="http://blog.selimreza.com">BLOG</a>
                     
                     
                     {{--based on anyone login or not display menu items--}}
                     @if(Sentinel::guest())
-                        <li><a href="{{ URL::to('login') }}">Login</a>
-                        </li>
                         
                     @else
+                        <li><a href="{{ URL::to('login') }}">Login</a>
+                        </li>
                         <li {{ (Request::is('my-account') ? 'class=active' : '') }}><a href="{{ URL::to('my-account') }}">My Account</a>
                         </li>
                         <li><a href="{{ URL::to('logout') }}">Logout</a>
                         </li>
                     @endif
                     <li><a href="{{ URL::to('chat') }}">Live Chat</a></li>
-                    <li><a href="{{ URL::to('jobs') }}">Jobs</a></li>
                     <li><a href="{{ URL::to('amazon-products') }}">Amazon Products</a></li>
                 </ul>
             </div>

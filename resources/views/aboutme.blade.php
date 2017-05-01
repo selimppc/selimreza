@@ -123,7 +123,7 @@ About Me | SelimReza.com
                                         <i class="devicon-php-plain colored font100" ></i>
                                     </div>
                                     <div class="media-body">
-                                        <p class="media-heading">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+                                        <p class="media-heading">OOP is the best way for all kind of applications. It helps us for the ESO system. Extends and Interfaces are highly recommended to use from the beginning.</p>
                                     </div>
                                 </div>
                             </div>
@@ -145,7 +145,7 @@ About Me | SelimReza.com
                                             <i class="devicon-html5-plain colored font100"></i>
                                     </div>
                                     <div class="media-body">
-                                        <p class="media-heading">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. </p>
+                                        <p class="media-heading">Its a very common but powerful platform in the web world. We use HTML in our user interfaces.   </p>
                                     </div>
                                 </div>
                             </div>
@@ -167,7 +167,7 @@ About Me | SelimReza.com
                                             <i class="devicon-jquery-plain colored font100" ></i>
                                     </div>
                                     <div class="media-body">
-                                        <p class="media-heading">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+                                        <p class="media-heading">jQuery is also a library of web scripts. Its also has some powerful features for onpage calculation as well as backend actions.</p>
                                     </div>
                                 </div>
                             </div>
@@ -200,7 +200,7 @@ About Me | SelimReza.com
                                         <i class="devicon-mysql-plain colored font100" ></i>
                                     </div>
                                     <div class="media-body">
-                                        <p class="media-heading">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+                                        <p class="media-heading">I use Mysql and Mariadb server to store out input data. MariaDB is faster than mysql. Generally both funtionalities are same. I am experience eith View, Trigger, Store Procedure. There are mainly called database programming. </p>
                                     </div>
                                 </div>
                             </div>
@@ -222,7 +222,7 @@ About Me | SelimReza.com
                                             <i class="devicon-html5-plain colored font100"></i>
                                     </div>
                                     <div class="media-body">
-                                        <p class="media-heading">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. </p>
+                                        <p class="media-heading">Its a very common but powerful platform in the web world. We use HTML in our user interfaces. . </p>
                                     </div>
                                 </div>
                             </div>
@@ -244,7 +244,7 @@ About Me | SelimReza.com
                                             <i class="devicon-jquery-plain colored font100" ></i>
                                     </div>
                                     <div class="media-body">
-                                        <p class="media-heading">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
+                                        <p class="media-heading">jQuery is also a library of web scripts. Its also has some powerful features for onpage calculation as well as backend actions.</p>
                                     </div>
                                 </div>
                             </div>
